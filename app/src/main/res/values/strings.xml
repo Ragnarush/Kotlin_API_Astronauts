@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Astronauts in Space</string>
+    <string name="pw">Password</string>
+    <string name="usr">Username</string>
+    <string name="modPw">Modify Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="reg">Register</string>
+    <string name="clr">Clear</string>
+    <string name="back">Back</string>
+    <string name="cat">cat</string>
+    <string name="old_pw">Old Password</string>
+    <string name="new_pw">New Password</string>
+    <string name="mod_pw">Modify Password</string>
+    <string name="api_act">Astronauts in Space</string>
+    <string name="signUp">Sign Up now to get access</string>
+    <string name="noAccount">You don\'t have an account?</string>
+    <string name="forgotPass">Forgot password?</string>
+    <string name="pw_conf">Password Confirmation</string>
+    <string name="name">Name:</string>
+    <string name="craft">Craft:</string>
+    <string name="Reg_IsEmpty">Veuillez entrer un nom d\'utilisateur et un mot de passe svp..</string>
+    <string name="Reg_Exist">Ce nom d\'utilisateur existe déjà, veuillez en choisir un autre svp..</string>
+    <string name="felicitation">Félicitations!</string>
+    <string name="Felicitation_welcome">Félicitation et Bienvenu abord !!</string>
+    <string name="Pw_IsEmpty">Un ou plusieurs champs sont vide, veuillez remplir tous les champs</string>
+    <string name="Pw_IsSame">l\'ancien mot de passe et le nouveau, ne peuvent etre identique</string>
+    <string name="Pw_IsNotExist">Ce Username est inexistant !!</string>
+    <string name="Pw_Success">le mot de passe a ete changer avec succes</string>
+    <string name="Pw_Wrong">mauvais mot de passe !!</string>
+    <string name="Log_IsEmpty">Veuillez entrer un nom d\'utilisateur et un mot de passe svp..</string>
+    <string name="Log_UserNoExist">Ce nom d\'utilisateur n\'existe pas, veuillez vous enregistrer ou entrer un nom d\'utilisateur valide</string>
+    <string name="Log_Error">Erreur de Login</string>
+    <string name="Log_InvalidPw">mot de passe invalide!</string>
+    <string name="API_String">http://api.open-notify.org/astros.json</string>
+</resources>
